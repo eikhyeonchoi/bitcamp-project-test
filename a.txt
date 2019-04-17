@@ -12,6 +12,7 @@
 ㅇㅇ  ㅇㅇ
 ㅇ  ㅇㅇ
 익하~
+<<<<<<< HEAD
 승완완승완승완승완승완승완승
 승완승완승완승완승완승완
 완승완승완승완승완승완승
@@ -49,10 +50,14 @@
 완승완승완승완승완승완승
 <<<<<<< HEAD
 da
-b
+bddddddddddddddddddddd
 =======
 ㅇㅇ
+=======
+승완완승완승완승완승완승완
+>>>>>>> branch 'master' of https://github.com/eikhyeonchoi/bitcamp-project-test
 
+<<<<<<< HEAD
 ㅇㅇㅇㅇㅇㅇㅇㅇㅇ
 강사: 우헤헤...
 asdasdasdasdasdasd
@@ -73,6 +78,8 @@ asdasdasdasdasdasd
 김의주: 와아아아아ㅏ
 <<<<<<< HEAD
 강사: 오호라...
+>>>>>>> branch 'master' of https://github.com/eikhyeonchoi/bitcamp-project-test
+=======
 >>>>>>> branch 'master' of https://github.com/eikhyeonchoi/bitcamp-project-test
 =======
 >>>>>>> branch 'master' of https://github.com/eikhyeonchoi/bitcamp-project-test
