@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-충돌
-=======
-구하~
->>>>>>> branch 'master' of https://github.com/eikhyeonchoi/bitcamp-project-test
+구하아아아아아~
