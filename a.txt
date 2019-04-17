@@ -1,3 +1,49 @@
+
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+승완승완승완승완승완승완
+완승완승완승완승완승완승
+ㅇㅇ
+ㅇㅇㅇㅇ
+ㅇㅇㅇㅇㅇㅇ
+ㅇㅇㅇㅇㅇㅇㅇㅇㅇ
+asdasdasdasdasdasd
+
+asdf1234asdf1234asdf1234asdf1234
+asdasdasdasdasdasd
+
+김의주: 와아아아아ㅏ
+=======
 ㅇ  ㅇㅇ
 ㅇㅇ  ㅇㅇ
 ㅇㅇㅇ  ㅇㅇ
@@ -55,6 +101,7 @@ bddddddddddddddddddddd
 ㅇㅇ
 =======
 승완완승완승완승완승완승완
+<<<<<<< HEAD
 >>>>>>> branch 'master' of https://github.com/eikhyeonchoi/bitcamp-project-test
 
 <<<<<<< HEAD
@@ -63,16 +110,7 @@ bddddddddddddddddddddd
 asdasdasdasdasdasd
 asdf1234asdf1234asdf1234asdf1234
 asdasdasdasdasdasd
->>>>>>> branch 'master' of https://github.com/eikhyeonchoi/bitcamp-project-test
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-김의\c2ed
-sdfsd
-=======
-=======
-asdf1234asdf1234asdf1234asdf1234
-asdasdasdasdasdasd
 
 >>>>>>> branch 'master' of https://github.com/eikhyeonchoi/bitcamp-project-test
 김의주: 와아아아아ㅏ
@@ -83,3 +121,5 @@ asdasdasdasdasdasd
 >>>>>>> branch 'master' of https://github.com/eikhyeonchoi/bitcamp-project-test
 =======
 >>>>>>> branch 'master' of https://github.com/eikhyeonchoi/bitcamp-project-test
+=======
+>>>>>>> f2de3c7a44263c465ee1abfe1ec5639abb1d5e54
