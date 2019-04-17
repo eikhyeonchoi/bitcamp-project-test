@@ -32,8 +32,23 @@
 완승완승완승완승완승완승
 승완승완승완승완승완승완
 완승완승완승완승완승완승
+<<<<<<< HEAD
 da
 b
+=======
+ㅇㅇ
 
+ㅇㅇㅇㅇㅇㅇㅇㅇㅇ
+강사: 우헤헤...
+asdasdasdasdasdasd
+asdf1234asdf1234asdf1234asdf1234
+asdasdasdasdasdasd
+>>>>>>> branch 'master' of https://github.com/eikhyeonchoi/bitcamp-project-test
+
+<<<<<<< HEAD
 김의\c2ed
 sdfsd
+=======
+김의주: 와아아아아ㅏ
+강사: 오호라...
+>>>>>>> branch 'master' of https://github.com/eikhyeonchoi/bitcamp-project-test
