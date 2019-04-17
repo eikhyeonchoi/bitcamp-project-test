@@ -1,6 +1,7 @@
 package bitcamp.project.test;
 
 import bitcamp.project.test.service.FileService;
+import bitcamp.project.test.service.MemberService;
 
 public class App {
   public String getGreeting() {
@@ -12,5 +13,10 @@ public class App {
     FileService fs = new FileService();
     fs.list();
     System.out.println("*************************************");
-  }
+    MemberService m = new MemberService();
+    
+    for (int i=0; i < 10; i++) {
+      m.list();
+    }
+  }  
 }
