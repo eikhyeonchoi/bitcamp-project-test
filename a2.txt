@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-충돌
-=======
-asdasdasdasd00
-asdasdasdasd  ss
-asdasdasdasd00
-익하~
->>>>>>> branch 'master' of https://github.com/eikhyeonchoi/bitcamp-project-test
+구하하하하하핳
